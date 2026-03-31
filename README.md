@@ -102,8 +102,6 @@ RetroSnake/
 - [ ] **Obstacles** — static walls inside the grid that increase in number each stage
 - [ ] **Power-ups** — temporary effects like slow motion, score multiplier or invincibility
 - [ ] **Ghost mode** — a limited-time ability to pass through your own body
-- [ ] **Two-player mode** — split screen or shared keyboard co-op/versus
-- [ ] **Custom snake color/skin selector** — let the player choose their snake's appearance before starting
 - [ ] **Web build** — compile to WebAssembly with Emscripten so anyone can play in the browser without installing anything
 
 ---
