@@ -34,7 +34,8 @@ You control a snake across a 2D grid using the **arrow keys**. An apple appears 
 
 ## 📸 Screenshot
 
-> *(Add a screenshot or GIF of your game here)*
+> <img width="898" height="929" alt="image" src="https://github.com/user-attachments/assets/b7b76e39-5f06-414e-b5eb-80867c42b029" />
+
 
 ---
 
@@ -43,7 +44,7 @@ You control a snake across a 2D grid using the **arrow keys**. An apple appears 
 ### Requirements
 - [Raylib v5.5](https://www.raylib.com/) installed in your environment
 - Any C++ compiler (MSVC, GCC, Clang)
-- Visual Studio 2022 (recommended) or any IDE that supports C++
+- IDE that supports C++
 
 ### Steps
 1. Clone the repository:
