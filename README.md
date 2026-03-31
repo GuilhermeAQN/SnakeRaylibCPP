@@ -30,15 +30,6 @@ You control a snake across a 2D grid using the **arrow keys**. An apple appears 
 | ← Arrow | Move Left |
 | → Arrow | Move Right |
 
----
-
-## 📸 Screenshot
-
-> <img width="898" height="929" alt="image" src="https://github.com/user-attachments/assets/b7b76e39-5f06-414e-b5eb-80867c42b029" />
-
-
----
-
 ## 🚀 How to Run
 
 ### Requirements
@@ -128,3 +119,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *Developed by [Guilherme Nogueira](https://github.com/GuilhermeAQN)*
+
+---
+
+## 📸 Screenshot
+
+> <img width="898" height="929" alt="image" src="https://github.com/user-attachments/assets/b7b76e39-5f06-414e-b5eb-80867c42b029" />
+
+---
