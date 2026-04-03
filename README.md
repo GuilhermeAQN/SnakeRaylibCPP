@@ -13,7 +13,7 @@ A classic Snake game built with **C++** and **Raylib**, developed as a hands-on 
 This project was initially built by following the tutorial below, 
 then expanded with my own modifications and improvements:
 
-- [Snake Game in C++ with Raylib – by GamesWithGabe](https://youtu.be/LGqsnM_WEK4?list=PLwR6ZGPvjVOSRywn9VCQ3yrRVruxzzuo9)
+- [Snake Game in C++ with Raylib – by Programming With Nick](https://youtu.be/LGqsnM_WEK4?list=PLwR6ZGPvjVOSRywn9VCQ3yrRVruxzzuo9)
 
 ---
 
@@ -40,11 +40,10 @@ You control a snake across a 2D grid using the **arrow keys**. An apple appears 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GuilhermeAQN/retro-snake.git
+   git clone https://github.com/GuilhermeAQN/SnakeRaylibCPP
    ```
-2. Open the project in Visual Studio 2022
-3. Make sure Raylib is linked to your project
-4. Build and run
+2. Make sure Raylib is linked to your project
+3. Build and run
 
 ---
 
